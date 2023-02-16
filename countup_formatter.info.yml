@@ -1,0 +1,5 @@
+name: CountUp Formatter
+type: module
+description: Animates Numbers when getting in the viewport
+package: Fields
+core_version_requirement: ^9.2 || ^10
