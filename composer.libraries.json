@@ -31,5 +31,7 @@
       }
     }
   ],
-  "require": {}
+  "require": {
+    "inorganik/countup-js": "2.4.2"
+  }
 }
