@@ -21,7 +21,7 @@
     {
       "type": "package",
       "package": {
-        "name": "inorganik/countUp.js",
+        "name": "inorganik/countup.js",
         "version": "2.4.2",
         "type": "drupal-library",
         "dist": {
