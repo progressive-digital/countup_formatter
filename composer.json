@@ -22,16 +22,16 @@
       "type": "package",
       "package": {
         "name": "inorganik/countUp.js",
-        "version": "2.0.6",
+        "version": "2.4.2",
         "type": "drupal-library",
         "dist": {
-          "url": "https://github.com/inorganik/countUp.js/archive/2.0.6.zip",
+          "url": "https://github.com/inorganik/countUp.js/archive/refs/tags/v2.4.2.zip",
           "type": "zip"
         }
       }
     }
   ],
   "require": {
-    "inorganik/countUp.js": "2.0.6"
+    "inorganik/countUp.js": "2.4.2"
   }
 }
