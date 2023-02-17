@@ -12,11 +12,23 @@ Add the repository to your composer.json like this:
   {
     "type": "git",
     "url": "https://github.com/progressive-digital/countup_formatter.git"
+  },
+  {
+    "type": "package",
+    "package": {
+      "name": "inorganik/countup-js",
+      "version": "2.4.2",
+      "type": "drupal-library",
+      "dist": {
+        "url": "https://github.com/inorganik/countUp.js/archive/refs/tags/v2.4.2.zip",
+        "type": "zip"
+      }
+    }
   }
 ]
 ```
 
-And then require this module:
+And then require this module and the needed library:
 ```bash
-composer require 'progressive-digital/countup_formatter:^1.0'
+composer require 'progressive-digital/countup_formatter:^1.0' 'inorganik/countup-js'
 ```
